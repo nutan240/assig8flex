@@ -3,3 +3,44 @@
     padding: 0%;
     }
    
+    .container{
+        display: flex;
+    }
+    .navbar{
+        background-color: #d0edd3;
+        height: 100vh;
+        width: 15vw;
+    }
+    .main{
+        width: 85vw;
+    }
+    .header{
+        padding-left: 13px;
+        line-height: 25px;
+        height: 10vh;
+        background-color:  #7ee232;
+    }
+    .main1{
+        height: 80vh;
+        display: flex;
+    }
+    .article{
+        padding-left: 13px;
+        line-height: 25px;
+        background-color: #ffffff ;
+        float: right;
+        width: 85vw;
+    }
+    .aside{
+        background-color:  #f2fada;
+        float: left;
+        width: 15vw;
+        height: 90vh;
+    }
+    .footer{
+        background-color: #7ee232;
+        height: 10vh;
+        padding-left: 13px;
+        line-height: 25px;
+        width: 73vw;
+    }
